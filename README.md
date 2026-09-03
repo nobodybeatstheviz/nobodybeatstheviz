@@ -2,7 +2,7 @@
 
 **Agentic Analytics Architect** — [Nobody Beats the Viz](https://nobodybeatstheviz.com/). *Same questions. New tools.*
 
-Seventeen years in Tableau: analyst → developer → architect → consultant, most recently Principal BI Architect at CodaMetrix. Healthcare analytics is the deep domain. Now building where the stack is going — semantic layers, MCP, Agentforce, agents that act instead of dashboards that wait.
+In Tableau since 2009: analyst → developer → architect → consultant, most recently Principal BI Architect at CodaMetrix. Healthcare analytics is the deep domain. Now building where the stack is going — semantic layers, MCP, Agentforce, agents that act instead of dashboards that wait.
 
 ## Git, in a year
 
@@ -12,9 +12,9 @@ A year ago this account didn't exist.
 |---|---|
 | Account opened | 2025-09-18 |
 | First repo | 2026-04-15, a hackathon build |
-| Today | 12 repos · 253 commits · the whole operating system in one of them |
+| 2026-09-02 | 12 repos · 253 commits · the whole operating system in one of them |
 
-Seventeen years of shipping analytics and I never had a Source layer for my own work. Workbooks in a shared drive. SQL in a warehouse. A folder of `final_v3`. Every data-modeling book says the same three things — source is never mutated, analysis derives, presentation is disposable — and I held that line for clients for two decades while my own files fused all three.
+Since 2009 I've shipped analytics for other people and never had a Source layer for my own work. Workbooks in a shared drive. SQL in a warehouse. A folder of `final_v3`. Every data-modeling book says the same three things — source is never mutated, analysis derives, presentation is disposable — and I held that line for clients for two decades while my own files fused all three.
 
 Git fixed that, but not the way I expected. It isn't a backup. It's an append-only log of every state the work has ever been in, with a dated, human-written note on each entry saying *why*. That makes it the warehouse for history: already complete, already immutable, free until something asks it a question.
 
