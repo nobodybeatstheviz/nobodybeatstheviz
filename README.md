@@ -20,7 +20,7 @@ Git fixed that, but not the way I expected. It isn't a backup. It's an append-on
 
 So the rule I run now is short. **The document carries what is true today. The commit message carries how it got that way.** No doc keeps its own changelog; `git log -p -- path/` is the archaeology, on demand.
 
-The biggest repo here is private: my job search, my builds, my practices, run as a codebase through Claude Code. It moved from a Drive folder to a repo in August 2026, and the arithmetic moved with it — one logical change used to cost eight file edits across hand-kept indexes; now the indexes are generated. The lesson underneath is the one I'd give any client adopting AI right now: **the agent's job is to write the generator, not to be the generator.**
+The biggest repo here is private: my job search, my builds, my practices, run as a codebase through Claude Code. It moved from a Drive folder to a repo in August 2026, and the arithmetic moved with it — one ruling used to leave six copies across hand-kept indexes, four of them wrong by the end of the session; now the indexes are generated. The lesson underneath is the one I'd give any client adopting AI right now: **the agent's job is to write the generator, not to be the generator.**
 
 ```mermaid
 timeline
